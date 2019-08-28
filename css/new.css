@@ -1,0 +1,69 @@
+
+.mr-pice {
+  margin-bottom: 45px;
+}
+
+
+.time {
+  width: 102px;
+  height: 90px;
+  border: 1px solid #666666;
+}
+.count {
+  font-size: 16px;
+  line-height: 45px;
+  text-align: center;
+  color: #666666;
+}
+.countactive {
+  color: #f5897d;
+}
+.yea {
+  font-size: 16px;
+  line-height: 45px;
+  text-align: center;
+  color: #fff;
+  background-color: #666666;
+}
+
+.mr-text {
+  margin-left: 30px;
+}
+.mr-text span {
+  display: inline-block;
+  font-size: 16px;
+  color: #666666;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #666666;
+}
+.mr-text span.active {
+  color: #f5897d;
+}
+.mr-text p {
+  font-size: 14px;
+  color: #666666;
+  line-height: 24px;
+  margin-top: 18px;
+}
+
+.mr-pice:hover span {
+  color: #f5897d;
+}
+.mr-pice:hover .count {
+  color: #f5897d;
+}
+.page {
+  margin-top: 20px;
+  color: #5d5d5d;
+  font-size: 14px;
+  margin-bottom: 30px;
+  justify-content: center;
+}
+.page button {
+  height: 20px;
+  border: 1px solid #666666;
+  background-color: #fff;
+  margin-right: 10px;
+}
+
+

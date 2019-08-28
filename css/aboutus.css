@@ -1,0 +1,116 @@
+.mb-right{
+  margin-top: 47px;
+  margin-left: 63px;
+  flex-wrap: wrap;
+}
+.mbr-left{
+  width: 453px; 
+  
+}
+.picetitle{
+  position: relative;
+  /* height: 35px; */
+  margin-bottom: 14px;
+  padding-bottom: 13px;
+}
+
+.picetitle p:nth-of-type(1) {
+  font-size: 14px;
+  color: #343434;
+}
+.picetitle .ppc {
+  
+  display: flex;
+  align-items: flex-end;
+  font-size: 12px;
+  color: #999999;
+}
+.picetitle .ppc span {
+  font-size: 18px;
+  color: #333333;
+  margin-right: 30px;
+}
+.picetitle img {
+  position: absolute;
+  left: 0;
+  bottom: 6px;
+}
+.pice-line {
+  border-top: 1px solid #666666;
+  margin-top: 10px;
+}
+.pice {
+  margin-bottom: 42px;
+}
+.pice>p{
+  font-size: 14px;
+  color: #737373;
+  line-height: 22px;
+  text-align: justify;
+}
+
+.mbr-right {
+  width: 405px;
+  height: 540px;
+  border: 1px solid #666666;
+  margin-top: 110px;
+  margin-left: 25px;
+  position: relative;
+}
+.mbr-right img {
+  position: absolute;
+  top: -56px;
+  left: 38px;
+}
+.mbr-gr {
+  width: 80px;
+  height: 80px;
+  background-color: #666666;
+  position: absolute;
+  top: -78px;
+  right: -110px;
+}
+
+.box-one {
+  width: 501px;
+}
+.pw1 {
+  width: 477px;
+}
+.box-two {
+  width: 491px;
+}
+
+.pw2 {
+  padding-top: 28px;
+  padding-left: 35px;
+}
+
+.box-three {
+  width: 100%;
+  margin-top: 20px;
+  position: relative;
+}
+.pw3  {
+  position: absolute;
+  width: 490px;
+  height:  163px;
+  background-color: #f3f3f3;
+  top: 24px;
+  left: 16px;
+  padding: 24px 17px 15px 10px;
+}
+.box {
+  height: 780px;
+}
+
+
+
+
+.box1active {
+  display: flex;
+  opacity: 1;
+}
+
+
+

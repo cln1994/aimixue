@@ -1,0 +1,53 @@
+
+
+.picetitle .ppc span{
+  margin-right: 15px;
+}
+.mbr-left {
+  width: 690px;
+}
+.picetitle1 {
+  display: inline-block;
+  margin-bottom: 0px;
+}
+.mbr-right1 {
+  margin-left: 20px;
+}
+.bb {
+  width: 985px;
+  overflow: hidden;
+}
+.bb-box {
+  transition: all 2s;
+}
+.bb-box img {
+  margin-right: 77px;
+}
+.change {
+  font-size: 14px;
+  line-height: 26px;
+  color: #999999;
+  justify-content: center;
+  margin-top: 35px;
+}
+.change button {
+  width: 24px;
+  height: 24px;
+  border: 1px solid #999999;
+  background-color: #fff;
+  color: #999999;
+}
+.change span {
+  padding: 0 10px;
+}
+.change span.active {
+  color: #fb7963;
+}
+
+.box1 {
+  display: none;
+  opacity: 1;
+}
+.box1active {
+  display: block;
+}
